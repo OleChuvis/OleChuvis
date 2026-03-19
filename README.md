@@ -2,12 +2,12 @@
 
 Я начинающий Data Engineer с опытом управления в ритейле (15+ лет) и профильным образованием (МГУПИ, инженер ВКСиС).
 
-🔭 Я закончил курс Data Engineer в **Сбер Университете** и активно ищу позицию стажера или Junior Data Engineer.
-🌱 Мой стек: **Python (Pandas, NumPy), SQL, PostgreSQL, Airflow, Docker**.
-👯 У меня есть опыт работы с ERP-системами (Axapta, Navision) и глубокое понимание бизнес-процессов ритейла.
-📫 Как связаться: [chuvis@inbox.ru  https://t.me/ChuVS]
-⚡ Мой главный проект: [`sberuniver`]
-
+- 🔭 Я закончил курс Data Engineer в **Сбер Университете** и активно ищу позицию стажера или Junior Data Engineer.
+- 🌱 Мой стек: **Python (Pandas, NumPy), SQL, PostgreSQL**.
+- 👯 У меня есть опыт работы с ERP-системами (Axapta, Navision) и глубокое понимание бизнес-процессов ритейла.
+- 📫 Как связаться: [chuvis@inbox.ru  https://t.me/ChuVS]
+<!-- - ⚡ Мой главный проект: [`sberuniver`]
+-->
 <!--
 **OleChuvis/OleChuvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
